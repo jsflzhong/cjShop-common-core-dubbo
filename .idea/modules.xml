@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cjShop-common.iml" filepath="$PROJECT_DIR$/cjShop-common.iml" />
+      <module fileurl="file://F:\sources\cjshop&amp;ttshop\cjshop-dubbo\cjShop-common-core\cjShop-common.iml" filepath="F:\sources\cjshop&amp;ttshop\cjshop-dubbo\cjShop-common-core\cjShop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjShop-common-core.iml" filepath="$PROJECT_DIR$/cjShop-common-core.iml" />
     </modules>
   </component>
 </project>

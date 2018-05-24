@@ -1,4 +1,4 @@
-package com.cj.common.pojo;
+package com.cj.core.pojo;
 
 /**
  * 专用来封装前端easyUI的tree组件需要的数据格式.再在controller中封转换成JSON.

@@ -1,4 +1,4 @@
-package com.cj.common.pojo;
+package com.cj.core.pojo;
 
 /**
  * 用来封装前端上传功能所需要的格式的数据. 前端上传用的是kindEditor的上传功能. 需要三个字段.

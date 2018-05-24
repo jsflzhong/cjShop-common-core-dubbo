@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cjShop-common" />
+        <module name="cjShop-common-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cjShop-common" target="1.7" />
+      <module name="cjShop-common-core" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
